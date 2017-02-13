@@ -1,6 +1,6 @@
-# English:
+# Language:
 ## An uncreatively named english language generator
-Basically, I've been experimenting with recursive transition networks (RTNs) and have decided to make a python script that makes gramatically valid english sentences. There are (surprisingly) a few uses for this. For instance, if you wanted a supervised learning AI that speaks english but don't want to start at the beginning (ie. stringing letters together and telling it if it makes sense) or want a bot to communicate its findings to you in a humanlike manner, you may require something that makes english.
+Basically, I've been experimenting with recursive transition networks (RTNs) and have decided to make a python script that makes grammatically valid english sentences. There are (surprisingly) a few uses for this. For instance, if you wanted a supervised learning AI that speaks english but don't want to start at the beginning (ie. stringing letters together and telling it if it makes sense) or want a bot to communicate its findings to you in a humanlike manner, you may require something that makes english.
 
 ## Dependencies:
 1. Python (with standard pre-included modules)
