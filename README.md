@@ -12,9 +12,13 @@ Hold python in one hand and the script in the other and sorta... mash them toget
 Or for \*nix, OSX...
 ```bash
 $ cd ~/path/to/folder/language/
-$ python language.py
+$ python language.py <options>
 ....rainbow$....
 ```
+Options:
++ speak: say text out loud (OSX only right now)
++ converse: try to have a 'conversation'
++ verbose: display debug information
 ## Creative modifications!
 In the code, you can specify allowed nouns/verbs/adjectives/articles/prepositiwhatsits...
 
