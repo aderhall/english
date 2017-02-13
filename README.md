@@ -11,8 +11,8 @@ Yeah, not huge on massive libraries.
 Hold python in one hand and the script in the other and sorta... mash them together?
 Or for \*nix, OSX...
 ```bash
-$ cd ~/path/to/folder/english/
-$ python sentence.py
+$ cd ~/path/to/folder/language/
+$ python language.py
 ....rainbow$....
 ```
 ## Creative modifications!
