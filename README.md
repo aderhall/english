@@ -8,7 +8,10 @@ Basically, I've been experimenting with recursive transition networks (RTNs) and
 
 Yeah, not huge on massive libraries.
 ## How to use:
-Hold python in one hand and the script in the other and sorta... mash them together?
+To start, clone or download the repository. Right now the script contains all that is needed for operation, but this is likely to change next time I edit it.
+
+Next, hold python in one hand and the script in the other and sorta... mash them together?
+
 Or for \*nix, OSX...
 ```bash
 $ cd ~/path/to/folder/language/
