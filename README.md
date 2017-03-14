@@ -8,7 +8,7 @@ Basically, I've been experimenting with recursive transition networks (RTNs) and
 
 Yeah, not huge on massive libraries.
 ## How to use:
-To start, clone or download the repository. Right now the script contains all that is needed for operation, but this is likely to change next time I edit it.
+To start, clone or [download](https://github.com/aderhall/language/archive/master.zip) the repository. Right now the script contains all that is needed for operation, but this is likely to change next time I edit it.
 
 Next, hold python in one hand and the script in the other and sorta... mash them together?
 
@@ -32,3 +32,6 @@ Just remember if you break stuff by messing with the code, don't expect the prog
 Can: use, modify, abuse, disgrace your computer by forcing it to run your modifications.
 
 Can't: copy paste and say you made it (I probably won't care or anything unless you sell it for a million bucks and don't give me any).
+
+## Contributors:
+This is mainly a personal project by [me](https://github.com/aderhall), but [Tate Ward](https://github.com/MoonMoon2) helped a bunch and a few others added words to the vocab.
